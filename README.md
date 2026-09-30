@@ -42,7 +42,7 @@ Tools & Technologies
 - Excel
 - Power BI
 - Tableau
-- Google BigQuery
+- Eclipse
 - Microsoft Office
 - Visual Studio Code
 - Git / GitHub
