@@ -1,1 +1,1 @@
-# E-Commerce Testing Project
+Blogging Website for personal usage
