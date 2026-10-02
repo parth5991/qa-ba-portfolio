@@ -1,4 +1,4 @@
-Screens include:
+Screens included:
 
 1. Login button
 2. Login Success
