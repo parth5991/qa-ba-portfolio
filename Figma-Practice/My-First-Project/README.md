@@ -1,5 +1,5 @@
 Screens included:
 
-1. Login button
-2. Login Success
+1. Login Screen
+2. Login Success Screen
 3. Login Button
