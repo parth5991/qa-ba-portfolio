@@ -1,1 +1,1 @@
-Blogging space for personal usage
+Blogging space for personal usage and building portfolio
