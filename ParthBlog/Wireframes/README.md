@@ -59,6 +59,7 @@ The wireframes form part of the ParthBlog QA and Business Analysis portfolio alo
 |---|---|---|
 | 1.0 | 14-10-2026 | Initial documentation of the ParthBlog wireframe screen inventory. |
 | 1.1 | 14-10-2026 | Organized the screen inventory into authentication, blog viewing, blog management, user profile, and general website sections. |
+| 1.1 | 15-10-2026 | Corrected the Contact Us page and reuploaded it |
 
 ## Notes
 
