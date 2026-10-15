@@ -1,23 +1,34 @@
 # ParthBlog – Manual Test Cases
 
-This folder contains the Excel workbooks documenting the manual test cases for the ParthBlog project.
+This folder contains the Excel workbook documenting manual test cases for the ParthBlog project.
 
-The test cases are based on the Functional Requirements Specification and cover positive scenarios, negative scenarios, and important validation checks. The test cases are reviewed for accuracy and meaningful coverage.
+The test cases are derived from the Functional Requirements Specification and focus on positive scenarios, negative scenarios, and meaningful validation checks. The goal is to maintain practical test coverage without unnecessary duplication.
 
 ## Test Case Completion Status
 
-| Requirement ID | Requirement | Status |
+| Requirement ID | Requirement | Documentation Status |
 |---|---|---|
 | REQ-01 | User Registration (Sign Up) | Completed |
 | REQ-02 | User Login | Completed |
 | REQ-03 | Forgot Password & Reset Password | Completed |
+| REQ-04 | Welcome Screen (Guest User) | Completed |
+| REQ-04 | Home Screen (Authenticated User) | Completed |
+| REQ-05 | Individual Blog Page | Completed |
+| REQ-10 | Contact Us | Completed |
 | REQ-11 | FAQs | Completed |
+| REQ-05 | Main Blogs Feed | Pending |
+| REQ-06 | Create Blog | Pending |
+| REQ-07 | Edit Blog | Pending |
+| REQ-08 | Delete Blog | Pending |
+| REQ-09 | Customize Profile & Edit Profile | Pending |
 
-**Note:** Test cases have been documented and reviewed but have not been executed because a working website is not available.
+**Note:** The status above refers to test-case documentation and review, not test execution. ParthBlog is a fictional portfolio project, and a working website is not currently available for execution.
 
-## Test Case Format
+## Test Case Structure
 
-Each worksheet contains the following columns:
+Each requirement has its own worksheet in the Excel workbook.
+
+The worksheets use the following columns:
 
 1. Test Case ID
 2. Test Scenario
@@ -27,16 +38,29 @@ Each worksheet contains the following columns:
 6. Actual Result
 7. Status
 
+## Testing Approach
+
+- Cover important positive and negative scenarios.
+- Include meaningful boundary and input-validation checks.
+- Avoid redundant test cases and unnecessary field-by-field validation.
+- Base expected results on the documented functional requirements.
+- Avoid inventing functionality or expected behavior that has not been specified.
+- Review test cases for mistakes, consistency, and meaningful coverage before considering the documentation complete.
+
+## Execution Status
+
+Test cases have been documented and reviewed but have not been executed against a live application.
+
+Actual Result will remain blank and Status will remain `Not Started` until test execution becomes possible.
+
 ## Version History
 
 | Version | Date | Changes |
 |---|---|---|
-| 1.0 | 14-10-2026 | Initial documentation of manual test cases for ParthBlog. |
-| 1.1 | 14-10-2026 | Added and reviewed test cases for User Registration, User Login, Forgot Password, Reset Password, and FAQs. Refined test data, expected results, and test coverage. |
+| 1.0 | 14-10-2026 | Initial documentation of ParthBlog manual test cases. |
+| 1.1 | 14-10-2026 | Added and reviewed test cases for User Registration, User Login, Forgot Password, Reset Password, and FAQs. Refined test data, expected results, and scenario coverage. |
+| 1.2 | 15-10-2026 | Added and reviewed test cases for the Welcome Screen, authenticated Home Screen, Individual Blog Page, and Contact Us. Refined expected results and focused on practical, non-exhaustive coverage. |
 
-## Important Notes
+## Future Updates
 
-- Test cases are designed for practical and representative coverage rather than exhaustive testing.
-- Actual results and execution statuses will be updated only when test execution becomes possible.
-- The completion status refers to test-case documentation and review, not execution.
-- Future updates will be recorded in the version history as additional requirements are covered or existing test cases are revised.
+The completion table and version history will be updated as additional requirements are covered and existing test cases are revised.
