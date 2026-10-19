@@ -13,20 +13,20 @@ The test cases are derived from the Functional Requirements Specification and fo
 | REQ-03 | Forgot Password & Reset Password | Completed |
 | REQ-04 | Welcome Screen (Guest User) | Completed |
 | REQ-04 | Home Screen (Authenticated User) | Completed |
+| REQ-05 | Main Blogs Feed | Completed |
 | REQ-05 | Individual Blog Page | Completed |
-| REQ-10 | Contact Us | Completed |
-| REQ-11 | FAQs | Completed |
-| REQ-05 | Main Blogs Feed | Pending |
-| REQ-06 | Create Blog | Pending |
-| REQ-07 | Edit Blog | Pending |
+| REQ-06 | Create Blog | Completed |
+| REQ-07 | Edit Blog | Completed |
 | REQ-08 | Delete Blog | Pending |
 | REQ-09 | Customize Profile & Edit Profile | Pending |
+| REQ-10 | Contact Us | Completed |
+| REQ-11 | FAQs | Completed |
 
 **Note:** The status above refers to test-case documentation and review, not test execution. ParthBlog is a fictional portfolio project, and a working website is not currently available for execution.
 
 ## Test Case Structure
 
-Each requirement has its own worksheet in the Excel workbook.
+Each requirement has its own worksheet in the Excel workbook. Related functionality may be combined into a single worksheet when it is available on the same screen.
 
 The worksheets use the following columns:
 
@@ -43,7 +43,7 @@ The worksheets use the following columns:
 - Cover important positive and negative scenarios.
 - Include meaningful boundary and input-validation checks.
 - Avoid redundant test cases and unnecessary field-by-field validation.
-- Base expected results on the documented functional requirements.
+- Base expected results on the documented functional requirements and established design decisions.
 - Avoid inventing functionality or expected behavior that has not been specified.
 - Review test cases for mistakes, consistency, and meaningful coverage before considering the documentation complete.
 
@@ -60,6 +60,7 @@ Actual Result will remain blank and Status will remain `Not Started` until test 
 | 1.0 | 14-10-2026 | Initial documentation of ParthBlog manual test cases. |
 | 1.1 | 14-10-2026 | Added and reviewed test cases for User Registration, User Login, Forgot Password, Reset Password, and FAQs. Refined test data, expected results, and scenario coverage. |
 | 1.2 | 15-10-2026 | Added and reviewed test cases for the Welcome Screen, authenticated Home Screen, Individual Blog Page, and Contact Us. Refined expected results and focused on practical, non-exhaustive coverage. |
+| 1.3 | 19-10-2026 | Added and reviewed test cases for the Main Blogs Feed, Create Blog, and Edit Blog. Refined validation scenarios, expected results, and test data. |
 
 ## Future Updates
 
