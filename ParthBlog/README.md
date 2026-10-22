@@ -8,14 +8,14 @@ ParthBlog is a blogging platform project designed to document functional require
 
 ## Project Progress
 
-The following documentation and design deliverables have been completed or are currently in progress:
+The following documentation and design deliverables have been completed:
 
 | No. | Deliverable | Status |
 |---|---|---|
 | 1 | Functional Requirements Specification | Completed |
 | 2 | UML Flowcharts | Completed |
 | 3 | UI Wireframes | Completed |
-| 4 | Manual Test Cases | In Progress |
+| 4 | Manual Test Cases | Completed |
 
 ## Project Documentation
 
@@ -34,3 +34,4 @@ ParthBlog is currently a portfolio documentation and design project. A working w
 |---|---|---|
 | 1.0 | 14-10-2026 | Initial project overview and documentation status. |
 | 1.1 | 14-10-2026 | Updated project progress to reflect completed requirements, flowcharts, wireframes, and ongoing manual test-case documentation. |
+| 1.2 | 22-10-2026 | Updated project progress to reflect completion of manual test-case documentation and review. |
