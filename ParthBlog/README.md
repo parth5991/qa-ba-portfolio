@@ -46,6 +46,14 @@ ParthBlog is currently a portfolio documentation and design project. A working w
 
 All test cases remain in `Not Started` status. The RTM reflects documented test coverage and does not represent actual test execution results.
 
+## Defect Reporting
+
+Defect reporting is outside the current scope of this project because a working application is not available for test execution.
+
+The project focuses on requirements documentation, business analysis, UI wireframes, manual test design, and requirements traceability.
+
+No defects have been logged, as the documented test cases have not been executed against a live application.
+
 ## Version History
 
 | Version | Date | Changes |
