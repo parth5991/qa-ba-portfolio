@@ -18,7 +18,7 @@
 ## Document Status
 
 - **Status:** Active
-- **Scope:** User Registration, Authentication & Blog Management
+- **Scope:** User Registration & Authentication, Home Page & Blogs, Blog Management, User Profiles & Account Management, User Interactions, and General Website Functionality.
 
 ParthBlog is a fictional blogging platform created as a QA & Business Analysis portfolio project, covering functional requirements and user-facing workflows.
 
